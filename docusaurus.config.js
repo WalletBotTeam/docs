@@ -9,7 +9,7 @@ const config = {
   title: 'WalletBot',
   tagline: 'Tagline here',
   url: 'https://walletbotteam.github.io/',
-  baseUrl: 'docs/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
