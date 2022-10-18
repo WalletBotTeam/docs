@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'WalletBot',
   tagline: 'Tagline here',
-  url: 'https://walletbottemp.theshadow.xyz',
+  url: 'https://docs.walletbot.pro',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
