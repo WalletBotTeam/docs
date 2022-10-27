@@ -5,9 +5,10 @@ slug: /
 
 # Welcome to WalletBot!
 
-## Introduction
 
 The bot is a cumulation of some existing features from other over priced bots (with improvements), and some brand new, unique features. The bot has 4 Main features which all complement each other:
+
+## Features:
 
 ### 1) Wallet Collection for Whitelisted users
 
