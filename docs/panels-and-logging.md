@@ -11,7 +11,7 @@ Start by using the `/panel create` command. As soon as you type that, you will s
 [og_amount] [eth_minimum] [remove_on_leave] [whitelist_log] [wallet_log]
 ```
 
-<Mandatory>: Cant be edited
+\<Mandatory\>: Cant be edited
 
 - Name: A name for the panel. This name is not displayed when the panel is sent, it is instead for you to reference to the panel easily.
 - Crypto: Select ETH, SOL, or Other. We are able to validate wallet addresses for ETH and SOL, so in case a user submits a wrong address, they will get an error asking them to check again.
@@ -65,3 +65,4 @@ By using the `/panel view` command, you can view the current settings of each pa
 #### Deleting a panel
 
 You can use the `/panel delete` command to delete a panel completely. Once a panel is deleted it can not be restored. 
+
