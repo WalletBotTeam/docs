@@ -27,6 +27,8 @@ const config = {
 		locales: ["en"],
 	},
 
+	scripts: ["https://walletbot.instatus.com/widget/script.js"],
+
 	presets: [
 		[
 			"classic",
