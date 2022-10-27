@@ -1,6 +1,6 @@
 # Panels & Logging
 
-Panels are used to collect wallet addresses from users. If you have chosen a wallet log for the panel, every time a user submits their wallet address, the bot will send a log message to that channel. You can use the `/export` command to see all the wallets collected so far. All panel related start with `/panel .....` 
+Panels are used to collect wallet addresses from users. If you have chosen a wallet log for the panel, every time a user submits their wallet address, the bot will send a log message to that channel. You can use the `/export` command to see all the wallets collected so far. All panel related start with `/panel ...` 
 
 ## Creating a panel
 
