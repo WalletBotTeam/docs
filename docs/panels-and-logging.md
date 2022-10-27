@@ -45,7 +45,7 @@ Using the `/panel send` command, you can send a panel to a specific channel for 
 /panel send: <id> <channel> <title> <description> [thumbnail]
 ```
 
-Mandetory:
+Mandatory:
 
 - id: Choose a panel to be sent that you created via the `/panel create` command.
 - channel: The channel where the panel gets sent to
