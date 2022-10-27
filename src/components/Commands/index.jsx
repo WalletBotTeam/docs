@@ -5,7 +5,7 @@ import styles from "./index.module.css"
 
 function BotStatus() {
     const [isLoading, setIsLoading] = useState(true)
-    const [data, setData] = useState({})
+    const [data, setData] = useState([])
 
     useEffect(() => {
         fetch()
@@ -19,7 +19,6 @@ function BotStatus() {
 
     const fetch = async () => {
         try {
-			
             return (await axios.get(`https://api.walletbot.pro/v0/commands`)).data
         } catch (_) {
             return []
@@ -33,7 +32,33 @@ function BotStatus() {
             </div>
         )
 
-    return <section className={styles.section}>{JSON.stringify(data)}</section>
+    return (
+        <section className={styles.section}>
+            <h1>All Commands</h1>
+            <h2>This data is sourced directly from the live bot.</h2>
+            <br />
+            {data.map((x) => {
+                return (
+                    <>
+                        <h3>{x.name}</h3>
+                        <h4>{x.description}</h4>
+                        <h5>
+                            Accessible by:{" "}
+                            {x.collabManager
+                                ? "Collab Managers"
+                                : x.walletManager
+                                ? "Wallet Managers"
+                                : x.whitelistManager
+                                ? "Whitelist Managers"
+                                : "Anyone"}
+                        </h5>
+                        <p>Subcommands: {x.subcommands.length > 0 ? x.subcommands.join(", ") : "None"}</p>
+                        <hr />
+                    </>
+                )
+            })}
+        </section>
+    )
 }
 
 export default BotStatus
