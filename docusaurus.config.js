@@ -73,56 +73,16 @@ const config = {
 					},
 					{
 						href: "https://github.com/walletbotteam",
-						label: "GitHub",
+						className: 'navbar-item-github',
+						position: "right",
+					},
+					{
+						href: "https://discord.gg/rgrchNDWup",
+						className: 'navbar-item-discord',
 						position: "right",
 					},
 				],
 			},
-			// footer: {
-			// 	style: "dark",
-			// 	links: [
-			// 		{
-			// 			title: "Docs",
-			// 			items: [
-			// 				{
-			// 					label: "Documentation",
-			// 					to: "/docs/intro",
-			// 				},
-			// 			],
-			// 		},
-			// 		{
-			// 			title: "Community",
-			// 			items: [
-			// 				//   {
-			// 				//     label: 'Stack Overflow',
-			// 				//     // href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-			// 				//   },
-			// 				{
-			// 					label: "Discord",
-			// 					href: "https://discord.gg/rgrchNDWup",
-			// 				},
-			// 				{
-			// 					label: "Twitter",
-			// 					// href: 'https://twitter.com/docusaurus',
-			// 				},
-			// 			],
-			// 		},
-			// 		//   {
-			// 		//     title: 'More',
-			// 		//     items: [
-			// 		//       {
-			// 		//         label: 'Blog',
-			// 		//         to: '/blog',
-			// 		//       },
-			// 		//       {
-			// 		//         label: 'GitHub',
-			// 		//         href: 'https://github.com/walletbotteam',
-			// 		//       },
-			// 		//     ],
-			// 		//   },
-			// 	],
-			// 	copyright: `Copyright © ${new Date().getFullYear()} WalletBot. Built with Docusaurus.`,
-			// },
 			prism: {
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme,
