@@ -50,7 +50,7 @@ function BotStatus() {
                                 ? "Wallet Managers"
                                 : x.whitelistManager
                                 ? "Whitelist Managers"
-                                : x.permissions
+                                : x.permissions.length > 0
                                 ? "People with the " + x.permissions.join(" and ") + " perms"
                                 : "Anyone"}
                         </h5>
