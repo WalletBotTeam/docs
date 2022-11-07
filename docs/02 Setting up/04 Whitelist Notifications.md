@@ -2,6 +2,10 @@
 
 Whitelist notifications are used to inform users that they have recived the required role for a specfic panel. This can be useful, especially, for NFT servers where whitelisted users get a `@Whitelist` role which unlocks channels or in this case allows them to submit their wallet. 
 
+:::info
+If you are using a strict security / automoderation bot you may need to allow WalletBot to mass mention! 
+:::
+
 ```go
 /wl_notification enable <id> [message_channel] [ghost_ping_channel]
 ```
