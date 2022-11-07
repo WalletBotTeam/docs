@@ -13,7 +13,7 @@ Do not remove any permissions
 YOU MUST JOIN THE DISCORD SERVER FOR US TO ASSIGN YOU THE PREMIUM SLOT
 ```
 
-You can purchase a slot for your bot from our Sellix Checkout page: https://walletbot.sellix.io/ 
+You can purchase a slot for your bot from: https://shop.walletbot.pro/
 
 If you are a community manager or collab manager who works with multiple servers and are looking to purchase multiple premium slots, do let us know! We offer a special prices depending on how many premium slots you purchase. 
 
