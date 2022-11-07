@@ -4,6 +4,7 @@ slug: /
 ---
 
 <head>
+    <title>WalletBot Docs</title>
     <meta property="title" content="WalletBot Docs" />
     <meta property="og:title" content="WalletBot Docs" />
     <meta
@@ -14,6 +15,7 @@ slug: /
         property="description"
         content="The All-in-One bot Managing Collabs, Whitelists & Collecting Wallets. Made for all Web 3.0 Discord Communities, NFTs, DAOs, DeFis and others!"
     />
+    <meta property="og:image" content="https://raw.githubusercontent.com/WalletBotTeam/.github/main/WalletBot.png" />
 </head>
 
 # Welcome to WalletBot!
