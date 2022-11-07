@@ -12,7 +12,7 @@ Start by using the `/panel create` command. As soon as you type that, you will s
 Panel commands can only be used by users with Administrator permissions
 :::
 
-### Syntax
+#### Syntax
 ```go
 /panel create: <Name> <Crypto> [required_role] [completed_role] [og_role] 
 [og_amount] [eth_minimum] [remove_on_leave] [whitelist_log] [wallet_log]
