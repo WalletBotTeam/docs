@@ -18,8 +18,6 @@ title: Welcome to WalletBot!
     <meta property="og:image" content="https://raw.githubusercontent.com/WalletBotTeam/.github/main/WalletBot.png" />
 </head>
 
-# Welcome to WalletBot!
-
 
 The bot is a cumulation of some existing features from other overpriced bots (with improvements), and some brand new, unique features. The bot has 4 Main features which all complement each other:
 
