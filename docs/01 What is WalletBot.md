@@ -1,6 +1,7 @@
 ---
 slug: /
 id: home
+title: Welcome to WalletBot
 ---
 
 <head>
