@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
 slug: /
+title: Welcome to WalletBot!
 ---
 
 <head>
-    <title>WalletBot Docs</title>
-    <meta property="title" content="WalletBot Docs" />
     <meta property="og:title" content="WalletBot Docs" />
     <meta
         property="og:description"
