@@ -1,3 +1,20 @@
+---
+slug: /
+---
+
+<head>
+    <meta property="og:title" content="WalletBot Docs" />
+    <meta
+        property="og:description"
+        content="The All-in-One bot Managing Collabs, Whitelists & Collecting Wallets. Made for all Web 3.0 Discord Communities, NFTs, DAOs, DeFis and others!"
+    />
+    <meta
+        property="description"
+        content="The All-in-One bot Managing Collabs, Whitelists & Collecting Wallets. Made for all Web 3.0 Discord Communities, NFTs, DAOs, DeFis and others!"
+    />
+    <meta property="og:image" content="https://raw.githubusercontent.com/WalletBotTeam/.github/main/WalletBot.png" />
+</head>
+
 # What is WalletBot? 
 
 WalletBot is an advanced Wallet Whitelist Discord bot that is a ton of utility features to support any web 3.0 community. Whether it be NFTs & DAOs or DeFi & GameFi communities, WalletBot provides something useful for everyone. 
