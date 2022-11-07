@@ -1,8 +1,8 @@
 If your server is using a high security, anti-raid, anti-nuke bot, you will need to whitelist WalletBot to allow WalletBot to ping users. This is only applicable if you are using the **Whitelist Notifications** , especially with **auto-whitelist**, since the bot will be pinging users when they recieve the whitelisted role. :aler
 
-```
-ℹ️ The whitelisted roles that WalletBot will assign must not have any Dangerous Permissions.
-```
+:::warning
+The whitelisted roles that WalletBot will assign must not have any Dangerous Permissions.
+:::
 
 ## Whitelisting with [Wick](https://wickbot.com/)
 
@@ -18,9 +18,9 @@ That's it, you're done. WalletBot will not be quarantined by Wick anymore for pi
 
 ## Whitelisting with [Security bot](https://securitybot.gg/)
 
-```
-ℹ️ Only applies if you have SecurityBot premium and are using the "Anti-Mention" and or "Anti-Ghost Ping" features
-```
+:::info
+Only applies if you have SecurityBot premium and are using the "Anti-Mention" and or "Anti-Ghost Ping" features
+:::
 
 WalletBot must be whitelisted for the "Anti Mentions" filter and the "Anti Ghost Ping" filters to avoid being Punished by Security bot for pinging users when they get the whitelisted role via the **whitelist notifcations** feature.
 
