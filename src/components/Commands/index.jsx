@@ -41,8 +41,8 @@ function BotStatus() {
                 return (
                     <>
                         <h3>{x.name}</h3>
-                        <h4>{x.description}</h4>
-                        <h5>
+                        <h5>{x.description}</h5>
+                        <p>
                             Accessible by:{" "}
                             {x.collabManager
                                 ? "Collab Managers"
@@ -53,8 +53,8 @@ function BotStatus() {
                                 : x.permissions.length > 0
                                 ? "People with the " + x.permissions.join(" and ") + " perms"
                                 : "Anyone"}
-                        </h5>
-                        <p>Subcommands: {x.subcommands.length > 0 ? x.subcommands.join(", ") : "None"}</p>
+                        </p>
+                        <p>Subcommands: {x.subcommands.length > 0 ? x.subcommands.map(cmd => {{<code>/{x.name} {cmd}</code>}}) : "None"}</p>
                         <hr />
                     </>
                 )
