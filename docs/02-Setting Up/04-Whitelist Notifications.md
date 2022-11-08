@@ -10,7 +10,7 @@ If you are using a strict security / automoderation bot you may need to allow Wa
 /wl_notification enable <id> [message_channel] [ghost_ping_channel]
 ```
 
-Mandetory:
+Mandatory:
 
 - id: Which panel’s “required” role to monitor and send notificaiton
 
@@ -34,6 +34,6 @@ You can also send a DM to the user once they get the `@whitelist` role if their 
 /wl_notification disable <id>
 ```
 
-mandetory
+Mandatory:
 
 - id: Which panel’s whitelist notification to disable.

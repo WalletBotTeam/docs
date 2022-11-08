@@ -22,7 +22,7 @@ These commands allow the Wallet Managers to `add` and `remove` wallets on the be
 /wallet add: <id> <user> <wallet> 
 ```
 
-Mandetory:
+Mandatory:
 
 - id: Which panel is the users wallet being added to
 - user: The users wallet address
@@ -33,7 +33,7 @@ Mandetory:
 /wallet remove: <id> <user> 
 ```
 
-Mandetory:
+Mandatory:
 
 - id: Which panel to remove the users wallet from
 - user: Which users wallet to remove
@@ -43,7 +43,7 @@ Mandetory:
 /wallet check: <id> <user> 
 ```
 
-Mandetory
+Mandatory
 
 - id: Which panel to check for the wallet
 - user: Which users to wallet address to check
@@ -72,7 +72,7 @@ The "whitelist role" is the "required_role". The Panel is used to identify which
 /whitelist add: <user> <panel>
 ```
 
-Mandetory:
+Mandatory:
 - user: which user to give the required_role to
 - panel: which required_role to assign to the user
 
@@ -81,7 +81,7 @@ Mandetory:
 /whitelist remove: <user> <panel>
 ```
 
-Mandetory:
+Mandatory:
 - user: which user to remove the required_role from
 - panel: which required_role to remove from the user
 

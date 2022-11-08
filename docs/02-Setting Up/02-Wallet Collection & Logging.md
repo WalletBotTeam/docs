@@ -18,7 +18,7 @@ Panel commands can only be used by users with Administrator permissions
 [og_amount] [eth_minimum] [remove_on_leave] [whitelist_log] [wallet_log]
 ```
 
-**Mandetory**: Can't be edited later!
+**Mandatory**: Can't be edited later!
 - Name: A name for the panel. This name is not displayed when the panel is sent, there is moreso for internal naming and usage
 - Crypto: Select ETH, SOL, or Other. We are able to validiate wallet addresses for ETH and SOL, so in case a user submits a wrong address, they will get an error asking them to check again.
 
@@ -50,7 +50,7 @@ Using the `/panel send` command, you can send a panel message to a specfic chann
 /panel send: <id> <channel>
 ```
 
-Mandetory:
+Mandatory:
 - id: Choose a panel to be sent that you created via the `/panel create` command.
 - channel: The channel where the panel gets sent to
 

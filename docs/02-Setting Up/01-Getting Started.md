@@ -17,11 +17,11 @@ You can purchase a slot for your bot from: https://shop.walletbot.pro/
 
 If you are a community manager or collab manager who works with multiple servers and are looking to purchase multiple premium slots, do let us know! We offer a special prices depending on how many premium slots you purchase. 
 
-## Activiating Premium
+## Activating Premium
 
-Once you've purchased a premium subscription, join the discord server so we can assign premium to your Discord Account. You can purchase multiple premium subscriptions at the same time for different servers. Follow these steps to get your Premium Slot activated:
+Once you've purchased a premium subscription, join the Discord server so we can assign premium to your Discord Account. You can purchase multiple premium subscriptions at the same time for different servers. Follow these steps to get your Premium Slot activated:
 
-1. Join our discord server
+1. Join our Discord server
 2. Open a ticket
 3. Let us know your invoice ID
 4. Use the `/premium activate` command in your server and that's it! 
@@ -30,10 +30,10 @@ Once you've purchased a premium subscription, join the discord server so we can 
 
 You can have multiple premium subscriptions at the same time. This is perfect for Community Managers, Collab Managers or anyone who is managing multiple communities at the same time!
 
-Using the `/premium view` command you can see how many slots you have, how many you've used and on which servers. You can deactivate premium on a server by doing `/premium deactivate` and choosing the slot which you wish to deactiviate.
+Using the `/premium view` command you can see how many slots you have, how many you've used and on which servers. You can deactivate premium on a server by doing `/premium deactivate` and choosing the slot which you wish to deactivate.
 
 :::tip 
-You can manage premium subscriptions by using the command in **any** server, so you could also actviate / deactiviate premium without even being in the server!
+You can manage premium subscriptions by using the command in **any** server, so you could also actviate / deactivate premium without even being in the server!
 ::: 
 
 

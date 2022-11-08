@@ -1,4 +1,4 @@
-If your server is using a high security, anti-raid, anti-nuke bot, you will need to whitelist WalletBot to allow WalletBot to ping users. This is only applicable if you are using the **Whitelist Notifications** , especially with **auto-whitelist**, since the bot will be pinging users when they recieve the whitelisted role. :aler
+If your server is using a high security, anti-raid, anti-nuke bot, you will need to whitelist WalletBot to allow WalletBot to ping users. This is only applicable if you are using the **Whitelist Notifications** , especially with **auto-whitelist**, since the bot will be pinging users when they receive the whitelisted role. :alert:
 
 :::warning
 The whitelisted roles that WalletBot will assign must not have any Dangerous Permissions.

@@ -23,7 +23,7 @@ WalletBot is an advanced Wallet Whitelist Discord bot that is a ton of utility f
 
 The bot's core features are advanced wallet collection, whitelist collab management (and giveaways coming soon!). 
 
-Join the discord https://discord.gg/pMXdB6CcnV if you have any questions or would like to see a demo for the bot!
+Join the Discord at https://discord.gg/pMXdB6CcnV if you have any questions or would like to see a demo for the bot!
 
 Web 3.0 Community Managers, Mods and Collab Managers will find that that this bot covers almost everything they need in this All-in-One bot. 
 
@@ -50,7 +50,7 @@ An outline of all the features are shown below.
 - Manage Multiple “auto-whitelists” without anyone ever needing to open a ticket to claim the WL role
 
 ### 3. Whitelist Notification to User 
-- Informing the user that they’ve recieved the WL role and can submit their wallet
+- Informing the user that they’ve received the WL role and can submit their wallet
 - No more random “role check” messages in chats
 - Pinging with a message in a spefic channel
 - Ghost pinging users in the `#submit-wallet` channel (so they can see where to submit their wallet)
