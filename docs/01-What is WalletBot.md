@@ -1,5 +1,6 @@
 ---
 slug: /
+id: What is WalletBot
 ---
 
 <head>

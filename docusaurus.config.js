@@ -63,7 +63,8 @@ const config = {
 				},
 				items: [
 					{
-						to: "https://docs.walletbot.pro/",
+						type: "doc",
+						docId: "What is WalletBot",
 						position: "left",
 						label: "Documentation",
 					},
